@@ -1,4 +1,4 @@
-# maskOS
+# maskOS - A macOS based skin
 
 I've created this skin because I was annoyed with the close, restore and minimize buttons on the top-right. Even tho I've put all my shit like a macOS, the Steam gave a shit. And that's because steam has it's own way to know which OS is running.
 
