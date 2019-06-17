@@ -9,4 +9,4 @@ It also have the greyish thing when you are navigating on another window.
 ![maskOS1](https://user-images.githubusercontent.com/51508868/59631528-6d481e00-911e-11e9-9738-befa0d673dc9.png)
 ![maskOS2](https://user-images.githubusercontent.com/51508868/59631539-733dff00-911e-11e9-8768-5a6ed7367894.png)
 
-Iv'e applied this only on the main window, the chat and the multitask function doesn't have it.
+Iv'e applied it only on the main window, the chat and the multitask function doesn't have it.
